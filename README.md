@@ -2,13 +2,6 @@
 
 Welcome to my GitHub! I'm an engineer focused on building various different types of projects using large language models (LLMs), tool calling, and memory.
 
-
-## 🧠 Tech Stack
-- **Languages**: Python, Bash
-- **Frameworks**: Hugging Face 🤗 Transformers, PEFT, Gradio, LangGraph
-- **Tools**: LM Studio, Qdrant, Docker, ffmpeg
-- **Hardware**: RTX 3060 12GB – Training and inference ready
-
 ---
 
 ## 📦 Projects in the Works
