@@ -1,6 +1,6 @@
 # 👋 Hey, I'm LLM Guy
 
-Welcome to my GitHub! I'm an engineer focused on building various different types of projects using large language models (LLMs), tool calling, and memory.
+Welcome to my GitHub! I'm an engineer focused on building various different types of projects using AI.
 
 ---
 
