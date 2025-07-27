@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hey, I'm LLM Guy
 
-<!--
-**llm-guy/llm-guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm an engineer focused on building various different types of projects using large language models (LLMs), tool calling, and memory.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+- **Languages**: Python, Bash
+- **Frameworks**: Hugging Face 🤗 Transformers, PEFT, Gradio, LangGraph
+- **Tools**: LM Studio, Qdrant, Docker, ffmpeg
+- **Hardware**: RTX 3060 12GB – Training and inference ready
+
+---
+
+## 📦 Projects in the Works
+- `jarvis`: My flagship project – a local smart AI assistant.
+
+---
+
+## 📚 Currently Learning
+- Vector DBs and semantic memory (Qdrant, ChromaDB)
+- Building LangGraph-based agent flows
+- Creating datasets that shape LLM personality and behavior
+- Multi Agent Frameworks
+- AGI
+
+---
+
+## 📫 Let's Connect
+- TikTok: https://www.tiktok.com/@llm.guy
+- Twitter (X): https://x.com/llm_guy2025
+- YouTube: https://www.youtube.com/@LLM.Guy2025
+
+---
+
+> 💡 I'm on a mission to master AI and build useful, local-first systems. No cloud dependency. Just raw, fast, and private intelligence at your fingertips.
+
+
