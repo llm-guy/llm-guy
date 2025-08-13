@@ -6,6 +6,7 @@ Welcome to my GitHub! I'm an engineer focused on building various different type
 
 ## 📦 Projects in the Works
 - `jarvis`: My flagship project – a local smart AI assistant.
+- `mcp server`: A basic MCP server using the Python MCP SDK.
 - `jarvis gui`: An extension of the jarvis project - currently in private repo.
 
 ---
